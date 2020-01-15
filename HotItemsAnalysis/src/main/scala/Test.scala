@@ -1,6 +1,0 @@
-/**
-  * @author Zx    
-  */
-object Test {
-
-}
